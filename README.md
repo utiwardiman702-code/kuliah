@@ -1,2 +1,2 @@
 # Belajar Git
-Project untuk mempelajari dasar penggunaan Git.
+Project untuk mempelajari dasar penggunaan Git.semangat yeegit 
